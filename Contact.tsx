@@ -10,7 +10,7 @@ const Contact = () => {
         
         <div className="bg-white p-8 md:p-12 rounded-lg shadow-lg border border-gray-100">
           <p className="text-xl text-gray-700 leading-relaxed mb-8 text-center md:text-left">
-            I am always open to discussing new research opportunities, academic collaborations, or interesting problems in statistics and machine learning.
+            I am always open to discussing new research opportunities, academic collaborations, or interesting problems in statistics and probability.
           </p>
           
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
